@@ -1,0 +1,1 @@
+print ("¡Bienvenido al programa de registro de los chefs recien incorporados!")
